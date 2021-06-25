@@ -1,21 +1,25 @@
-# GameFace Development Team
+# GameFace
+
+A website for viewing and posting unique game reviews
+
+## GameFace Development Team
 name(github id)
 - Gabriel Libozada Anover(anoverga17)
 - Renxi Sheng(putongzhongdan)
 - Milind Vishnoi(milindvishnoi)
 - Yicheng Yin(themarkyone)
 
-# Major Updates Since Phase 1 
+## Major Updates Since Phase 1 
 There are some leftover issues in Phase 1, such as crashes in game page, and some visual problems, we began Phase 2 with fixing all these problems. 
 
 In Phase 1, the information on our web app is hard coded, and now we have implement backend and database into the app, route the API calls and integrate with the frontend. 
 
 
-# Demo Page
+## Demo Page
 https://evening-cove-91552.herokuapp.com/
 
 
-# Testing Accounts
+## Testing Accounts
 Admin: 
 - username: admin
 - password: admin
@@ -25,7 +29,7 @@ User
 - password: user
 
 
-# Features That We implemented
+## Features That We implemented
 Starter Page
 - When you first open the app, you will be direct to this page. Anonymous user would not be able to use the features(check out the top game etc). 
 - There are two buttons on the top right corner, on the red navbar, called "LOGIN" and "SIGN UP", which will direct the user to the LogIn Page and the SignUp page, depends on if they already have an account or not. 
@@ -81,7 +85,7 @@ Search Bar
 Dark/Light Mode
 - The web app could be switched between dark mode and light mode, simply by click on the button between the search bar and the personal profile image. 
 
-# API Calls
+## API Calls
 ```
 POST /api/login
 
@@ -321,7 +325,7 @@ Expected Type: User object id
 Returns: Found User
 ```
 
-# Folder Structure
+## Folder Structure
 ```
 team40
   |
