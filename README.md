@@ -3,11 +3,11 @@
 A website for viewing and posting unique game reviews
 
 ## GameFace Development Team
-name(github id)
-- Gabriel Libozada Anover(anoverga17)
-- Renxi Sheng(putongzhongdan)
-- Milind Vishnoi(milindvishnoi)
-- Yicheng Yin(themarkyone)
+name (github id)
+- Gabriel Anover (anoverga17)
+- Renxi Sheng (putongzhongdan)
+- Milind Vishnoi (milindvishnoi)
+- Yicheng Yin (themarkyone)
 
 ## Major Updates Since Phase 1 
 There are some leftover issues in Phase 1, such as crashes in game page, and some visual problems, we began Phase 2 with fixing all these problems. 
