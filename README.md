@@ -1,4 +1,4 @@
-# team40
+# GameFace Development Team
 name(github id)
 - Gabriel Libozada Anover(anoverga17)
 - Renxi Sheng(putongzhongdan)
